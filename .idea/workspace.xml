@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cc6f8a8-38b4-4238-8582-8acd8e374d61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/BitOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/NextRound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/TheaterSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/CloningObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/ComparableObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/EngineClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/MSplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/NestedInterface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/NestedInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/NiceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/CLL/CircularLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/CLL/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/DoubleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/CustomeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/RevLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/practice/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/practice/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/practice/PractiseMian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/recursion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/recursion/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Oop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/StaticExa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/StaticTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Parent1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/cyclicSort/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/Wtermelon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/ds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/general/subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heaps/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heaps/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heaps/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertience/Inheritence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertience/Inhertience1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertience/Mian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/CustomeQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/CustomeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/DynamicCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/Questions/GameStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/AVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/BTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/ConstructBt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Mina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/SuccessorOfNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointer_slidingWindow/LongestSubstringKdistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointer_slidingWindow/SmallestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointer_slidingWindow/subarrays.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j8g2Qv85psHjzF3TlpkbLgkvpj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AVL.executor": "Run",
+    "Application.Abstraction.Main.executor": "Run",
+    "Application.BFS.executor": "Run",
+    "Application.BTest.executor": "Run",
+    "Application.BinarySearchTree.executor": "Run",
+    "Application.BitOperation.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CircularMain.executor": "Run",
+    "Application.CloningObjects.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.DoubleLinkedList.Main.executor": "Run",
+    "Application.GameStacks.executor": "Run",
+    "Application.Generics.Main.executor": "Run",
+    "Application.Heap.executor": "Run",
+    "Application.InsertionSort.executor": "Debug",
+    "Application.Interfaces.Main.executor": "Run",
+    "Application.Interfaces.NestedInterface.Main.executor": "Run",
+    "Application.Interfaces.defaultStatic.Main.executor": "Run",
+    "Application.LinkedList.DoubleLinkedList.CLL.Main.executor": "Run",
+    "Application.LongestSubstringKdistinct.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxHeap.executor": "Run",
+    "Application.MaxSum.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.Mian.executor": "Run",
+    "Application.MinHeap.executor": "Run",
+    "Application.Mina.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.NextRound.executor": "Run",
+    "Application.Oop1.executor": "Run",
+    "Application.PathSum.executor": "Run",
+    "Application.PractiseMian.executor": "Run",
+    "Application.QueueMain.executor": "Run",
+    "Application.SegmentTree.executor": "Run",
+    "Application.SmallestSubarray.executor": "Run",
+    "Application.StaticExa (1).executor": "Run",
+    "Application.StaticExa (2).executor": "Run",
+    "Application.StaticExa.executor": "Run",
+    "Application.StaticTwo (1).executor": "Run",
+    "Application.StaticTwo.executor": "Run",
+    "Application.Team.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.TheaterSquare.executor": "Run",
+    "Application.ThreaterSquare.executor": "Run",
+    "Application.TooLongWords.executor": "Run",
+    "Application.Wtermelon.executor": "Run",
+    "Application.stack.Main.executor": "Run",
+    "Application.subarrays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/nageswara/IdeaProjects/DSA/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MaxHeap">
+    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heaps.Heap" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstringKdistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twopointer_slidingWindow.LongestSubstringKdistinct" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twopointer_slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heaps.MaxHeap" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heaps.MinHeap" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twopointer_slidingWindow.SmallestSubarray" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twopointer_slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxHeap" />
+        <item itemvalue="Application.MinHeap" />
+        <item itemvalue="Application.Heap" />
+        <item itemvalue="Application.LongestSubstringKdistinct" />
+        <item itemvalue="Application.SmallestSubarray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc6f8a8-38b4-4238-8582-8acd8e374d61" name="Changes" comment="" />
+      <created>1720773914162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720773914162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/cyclicSort/CyclicSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/recursion/Main.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/CLL/CircularLL.java</url>
+          <line>24</line>
+          <properties class="LinkedList.DoubleLinkedList.CLL.CircularLL" method="display">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/trees/BFS.java</url>
+          <line>63</line>
+          <properties class="trees.BFS" method="BFS1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/trees/BFS.java</url>
+          <line>56</line>
+          <properties class="trees.BFS" method="helper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="temp1" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

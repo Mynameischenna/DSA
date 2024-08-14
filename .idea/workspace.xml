@@ -124,67 +124,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AVL.executor": "Run",
-    "Application.Abstraction.Main.executor": "Run",
-    "Application.BFS.executor": "Run",
-    "Application.BTest.executor": "Run",
-    "Application.BinarySearchTree.executor": "Run",
-    "Application.BitOperation.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.CircularMain.executor": "Run",
-    "Application.CloningObjects.executor": "Run",
-    "Application.CyclicSort.executor": "Run",
-    "Application.Demo1.executor": "Run",
-    "Application.DoubleLinkedList.Main.executor": "Run",
-    "Application.GameStacks.executor": "Run",
-    "Application.Generics.Main.executor": "Run",
-    "Application.Heap.executor": "Run",
-    "Application.InsertionSort.executor": "Debug",
-    "Application.Interfaces.Main.executor": "Run",
-    "Application.Interfaces.NestedInterface.Main.executor": "Run",
-    "Application.Interfaces.defaultStatic.Main.executor": "Run",
-    "Application.LinkedList.DoubleLinkedList.CLL.Main.executor": "Run",
-    "Application.LongestSubstringKdistinct.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxHeap.executor": "Run",
-    "Application.MaxSum.executor": "Run",
-    "Application.MergeSort.executor": "Run",
-    "Application.MethodOverloading.executor": "Run",
-    "Application.Mian.executor": "Run",
-    "Application.MinHeap.executor": "Run",
-    "Application.Mina.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.NextRound.executor": "Run",
-    "Application.Oop1.executor": "Run",
-    "Application.PathSum.executor": "Run",
-    "Application.PractiseMian.executor": "Run",
-    "Application.QueueMain.executor": "Run",
-    "Application.SegmentTree.executor": "Run",
-    "Application.SmallestSubarray.executor": "Run",
-    "Application.StaticExa (1).executor": "Run",
-    "Application.StaticExa (2).executor": "Run",
-    "Application.StaticExa.executor": "Run",
-    "Application.StaticTwo (1).executor": "Run",
-    "Application.StaticTwo.executor": "Run",
-    "Application.Team.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.TheaterSquare.executor": "Run",
-    "Application.ThreaterSquare.executor": "Run",
-    "Application.TooLongWords.executor": "Run",
-    "Application.Wtermelon.executor": "Run",
-    "Application.stack.Main.executor": "Run",
-    "Application.subarrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/nageswara/IdeaProjects/DSA/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AVL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircularMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CloningObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleLinkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GameStacks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Heap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Interfaces.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.NestedInterface.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.defaultStatic.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.DoubleLinkedList.CLL.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstringKdistinct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxHeap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mian.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinHeap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mina.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextRound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oop1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PractiseMian.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SegmentTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticExa (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticExa (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticExa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticTwo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Team.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TheaterSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreaterSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TooLongWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wtermelon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stack.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subarrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nageswara/IdeaProjects/DSA/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MaxHeap">
+}</component>
+  <component name="RunManager" selected="Application.t1">
     <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heaps.Heap" />
       <module name="DSA" />
@@ -237,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointer_slidingWindow.SmallestSubarray" />
+    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testing.t1" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointer_slidingWindow.*" />
+          <option name="PATTERN" value="Testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.t1" />
         <item itemvalue="Application.MaxHeap" />
         <item itemvalue="Application.MinHeap" />
         <item itemvalue="Application.Heap" />
         <item itemvalue="Application.LongestSubstringKdistinct" />
-        <item itemvalue="Application.SmallestSubarray" />
       </list>
     </recent_temporary>
   </component>

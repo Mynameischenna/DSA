@@ -4,100 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc6f8a8-38b4-4238-8582-8acd8e374d61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Child1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/BitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/NextRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/TheaterSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/CloningObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/ComparableObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomeArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/EngineClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/MSplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/NestedInterface/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/NestedInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/defaultStatic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/CLL/CircularLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/CLL/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/DoubleLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/CustomeLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/RevLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/practice/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/practice/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/SinglelLinkedList/practice/PractiseMian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/recursion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/recursion/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Oop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/StaticExa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/StaticTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Parent1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/cyclicSort/CyclicSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/Wtermelon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/ds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/general/subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertience/Inheritence2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertience/Inhertience1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertience/Mian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/CircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/CustomeQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/CustomeStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/DynamicCircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Questions/GameStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/QueueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/BTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/ConstructBt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/Mina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/SuccessorOfNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twopointer_slidingWindow/LongestSubstringKdistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twopointer_slidingWindow/SmallestSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twopointer_slidingWindow/subarrays.java" afterDir="false" />
+    <list default="true" id="2cc6f8a8-38b4-4238-8582-8acd8e374d61" name="Changes" comment="testing via intellj idea">
+      <change afterPath="$PROJECT_DIR$/src/DP/StairCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DijkstrasDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/ModefiedBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/NoOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/OneToKbfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/dfsNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap/HashMapLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap/SimpleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/bst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/GenerateSubStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/Maze1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/NKnights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/PalindromePartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SubSequenceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/SubSetsWithDups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testing/ds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testing/ds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testing/t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testing/t1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/SuccessorOfNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/SuccessorOfNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +54,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mynameischenna&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mynameischenna/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;320eb55c-7248-4755-ae03-00602dd3fde2&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -124,73 +79,100 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AVL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Abstraction.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BFS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearchTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CircularMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CloningObjects.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoubleLinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GameStacks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generics.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Heap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Interfaces.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.NestedInterface.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.defaultStatic.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList.DoubleLinkedList.CLL.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubstringKdistinct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxHeap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mian.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinHeap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mina.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextRound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Oop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PractiseMian.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SegmentTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestSubarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticExa (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticExa (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticExa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticTwo (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Team.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheaterSquare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreaterSquare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TooLongWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Wtermelon.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stack.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subarrays.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nageswara/IdeaProjects/DSA/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AVL.executor": "Run",
+    "Application.Abstraction.Main.executor": "Run",
+    "Application.BFS.executor": "Run",
+    "Application.BTest.executor": "Run",
+    "Application.Bfs.executor": "Run",
+    "Application.BinarySearchTree.executor": "Run",
+    "Application.BitOperation.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CircularMain.executor": "Run",
+    "Application.CloningObjects.executor": "Run",
+    "Application.CombinationSum.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
+    "Application.DFS.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Dijkstra.executor": "Run",
+    "Application.DijkstrasDemo.executor": "Run",
+    "Application.DoubleLinkedList.Main.executor": "Run",
+    "Application.GameStacks.executor": "Run",
+    "Application.GenerateSubStrings.executor": "Run",
+    "Application.Generics.Main.executor": "Run",
+    "Application.HashMapLL.executor": "Run",
+    "Application.Heap.executor": "Run",
+    "Application.InsertionSort.executor": "Debug",
+    "Application.Interfaces.Main.executor": "Run",
+    "Application.Interfaces.NestedInterface.Main.executor": "Run",
+    "Application.Interfaces.defaultStatic.Main.executor": "Run",
+    "Application.LinkedList.DoubleLinkedList.CLL.Main.executor": "Run",
+    "Application.LongestSubstringKdistinct.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxHeap.executor": "Run",
+    "Application.MaxSum.executor": "Run",
+    "Application.Maze1.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.Mian.executor": "Run",
+    "Application.MinHeap.executor": "Run",
+    "Application.Mina.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.NKnights.executor": "Run",
+    "Application.NQueens.executor": "Run",
+    "Application.NextRound.executor": "Run",
+    "Application.Nkinghts.executor": "Run",
+    "Application.NoOfIslands.executor": "Run",
+    "Application.Oop1.executor": "Run",
+    "Application.PalindromePartition.executor": "Run",
+    "Application.PathSum.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.PractiseMian.executor": "Run",
+    "Application.QueueMain.executor": "Run",
+    "Application.SegmentTree.executor": "Run",
+    "Application.SimpleHashMap.executor": "Run",
+    "Application.SmallestSubarray.executor": "Run",
+    "Application.StairCase.executor": "Run",
+    "Application.StaticExa (1).executor": "Run",
+    "Application.StaticExa (2).executor": "Run",
+    "Application.StaticExa.executor": "Run",
+    "Application.StaticTwo (1).executor": "Run",
+    "Application.StaticTwo.executor": "Run",
+    "Application.SubSequence.executor": "Run",
+    "Application.SubSequenceSum.executor": "Run",
+    "Application.SubSetsWithDups.executor": "Debug",
+    "Application.SuccessorOfNode.executor": "Run",
+    "Application.Team.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.TheaterSquare.executor": "Run",
+    "Application.ThreaterSquare.executor": "Run",
+    "Application.TooLongWords.executor": "Run",
+    "Application.Trie.executor": "Run",
+    "Application.WordSearch.executor": "Run",
+    "Application.Wtermelon.executor": "Run",
+    "Application.bst.executor": "Run",
+    "Application.dfsNew.executor": "Run",
+    "Application.ds.executor": "Run",
+    "Application.stack.Main.executor": "Run",
+    "Application.subarrays.executor": "Run",
+    "Application.t1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/nageswara/IdeaProjects/DSA/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.t1">
-    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heaps.Heap" />
+}]]></component>
+  <component name="RunManager" selected="Application.NoOfIslands">
+    <configuration name="Bfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Bfs" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heaps.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringKdistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointer_slidingWindow.LongestSubstringKdistinct" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Dijkstra" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointer_slidingWindow.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heaps.MaxHeap" />
+    <configuration name="DijkstrasDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.DijkstrasDemo" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heaps.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heaps.MinHeap" />
+    <configuration name="NoOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.NoOfIslands" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heaps.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testing.t1" />
+    <configuration name="dfsNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.dfsNew" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Testing.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.t1" />
-        <item itemvalue="Application.MaxHeap" />
-        <item itemvalue="Application.MinHeap" />
-        <item itemvalue="Application.Heap" />
-        <item itemvalue="Application.LongestSubstringKdistinct" />
+        <item itemvalue="Application.NoOfIslands" />
+        <item itemvalue="Application.dfsNew" />
+        <item itemvalue="Application.Bfs" />
+        <item itemvalue="Application.DijkstrasDemo" />
+        <item itemvalue="Application.Dijkstra" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +251,28 @@
       <option name="presentableId" value="Default" />
       <updated>1720773914162</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing via intellj idea">
+      <option name="closed" value="true" />
+      <created>1723625147097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723625147097</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testing via intellj idea">
+      <option name="closed" value="true" />
+      <created>1723625256790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723625256790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing via intellj idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing via intellj idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -289,6 +292,11 @@
           <line>55</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/SubSetsWithDups.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LinkedList/DoubleLinkedList/CLL/CircularLL.java</url>
           <line>24</line>
@@ -297,24 +305,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/trees/BFS.java</url>
-          <line>63</line>
-          <properties class="trees.BFS" method="BFS1">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/trees/BFS.java</url>
-          <line>56</line>
-          <properties class="trees.BFS" method="helper">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

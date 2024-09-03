@@ -1,6 +1,9 @@
 package trees;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 public class BFS {
     static class Node {
@@ -67,6 +70,46 @@ public class BFS {
         if(root.right != null) list.add(root.right.value);
         root.mark = 1;
     }
+    List<List<Integer>> lis = new ArrayList<>();
+    public void levelOrder(Node root){// itertive approach
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(root);
+        while ((!queue.isEmpty())){
+            List<Integer> l = new ArrayList<>();
+            int n = queue.size();
+            for (int i = 0; i < n; i++) {
+                Node curr = queue.poll();
+                l.add(curr.value);
+                if(curr.left != null){
+                    queue.offer(curr.left);
+                }
+                if(curr.right != null){
+                    queue.offer(curr.right);
+                }
+            }
+            lis.add(l);
+        }
+        System.out.println("Level order tarvesal"+lis);
+    }
+    List<List<Integer>> recLiss = new ArrayList<>();
+    public void BFS(){// recurssive way of level order
+
+        levelOrder(root,0,recLiss);
+        System.out.println(" recurssive way"+recLiss);
+    }
+    public void levelOrder(Node root,int level,List<List<Integer>> lis){
+        if(root == null) return;
+
+        if(level >= lis.size()){
+            lis.add(new ArrayList<>());
+        }
+
+        lis.get(level).add(root.value);
+
+        levelOrder(root.left,level+1,lis);
+        levelOrder(root.right,level+1,lis);
+    }
+
     public static void main(String[] args) {
         BFS tree = new BFS();
 //        int[] arr = {21,5,8,23,42,1,12,5,46,78,1,8};
@@ -84,5 +127,6 @@ public class BFS {
 //        System.out.println((bfs.getNode(bfs.root,1)).value);
         tree.helper();
         System.out.println("list "+tree.list);
-    }
-}
+//        tree.levelOrder(tree.root);
+        tree.BFS();
+    }}
